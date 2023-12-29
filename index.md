@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog
 ---
-
+Generic content creation. Lorem ipsum would be better...
